@@ -1,2 +1,2 @@
 # MatterWaveSemantics
-This is a repo for ontologic data trepresentations that bridge the level from the microcosmic (Quantummechanics) over the mesocosmic (Newtanian Physics) up to the macrocosmic Scale Level (Relativistic Physics). at the 
+This is a repo for ontologic data representations that bridge the scale level from the microcosmic (Quantummechanics) over the mesocosmic (Newtanian Physics) up to the macrocosmic Scale Level (Relativistic Physics). At the beginning of our investigations lies the assumption that all top level ontologies like BFO, GFO or BioTop must work on all scale levels if foundational deterministic assumptions hold for generalizations along e.g. Synergetics and Emergence, transitivity and the Butterfly Effect.
